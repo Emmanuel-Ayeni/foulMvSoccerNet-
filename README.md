@@ -2,7 +2,7 @@
 
 
 ## Introduction
-<p>To apply computer vision using video input in Python with the SoccerNet dataset, we can follow the end-to-end machine learning lifecycle. The SoccerNet dataset is a multi-frame dataset that includes video clips of soccer matches, annotated with various events such as fouls, goals, and cards</p>
+<p>To apply computer vision using video input in Python with the SoccerNet dataset, we can follow the end-to-end machine learning lifecycle. The SoccerNet dataset is a multi-frame dataset that includes video clips of soccer matches, annotated with various events such as fouls, goals, and cards. The purpose is to provide AI-generated evidence that interprets and makes decisions according to the laws of soccer games. The system utilises multi-view video analysis to provide real-time feedback to referees to enable informed decisions regarding fouls and their classifications. </p>
 
 ## Problem Definition
 * Objective: Build a computer vision model to detect fouls in soccer matches using video input from the SoccerNet dataset.
